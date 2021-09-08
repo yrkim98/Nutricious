@@ -1,0 +1,19 @@
+.likes {
+	color:#adadad;
+}
+
+.likes .user-liked {
+	color: red;
+}
+
+.fa-heart {
+	cursor: pointer;
+}
+
+.mdl-card {
+    overflow: visible !important;
+}
+
+.card-img{
+    width: 100%;
+}
