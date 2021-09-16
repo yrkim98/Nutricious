@@ -1,4 +1,6 @@
+Demo website available here: https://nutricious-f7f8a.firebaseapp.com/
 This project was created by Brian Kim and Drew Gallardo for a project in their INFO 340 class at the University of Washington.
+
 ## Available Scripts
 
 In the project directory, you can run:
